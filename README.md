@@ -72,7 +72,7 @@ We welcome contributions! 🤗 Please read the [CONTRIBUTING.md](CONTRIBUTING.md
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](License.md) file for details.
 
 ## Contact
 
